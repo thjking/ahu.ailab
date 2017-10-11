@@ -1,0 +1,23 @@
+OECD(经济合作与发展组织)
+	work		职位
+	name		姓名
+	resume		简历
+	englishname	机构缩写
+	url		连接
+
+WIPO(世界知识产权组织)	(简历为PDF格式)
+	section		部门
+	work		任务
+	name		姓名
+	englishname	机构缩写
+	url		连接
+
+UNDP(联合国开发计划署)
+	work		职位
+	name		姓名
+	resume		简历
+	englishname	机构缩写
+	url		连接
+
+
+

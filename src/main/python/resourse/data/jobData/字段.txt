@@ -1,0 +1,108 @@
+UNDP(联合国开发计划署)
+
+    englishname  			组织英文缩写
+    chinesename  			组织中文名称
+    incontinent  			组织所属洲
+    incountry    			组织所在国家
+    type  	 			组织类别
+    url 	 			组织主页
+    alljoburl 			 	组织招聘岗位主页
+    joburl 	 			该招聘岗位主页
+    describe 	 			岗位描述
+    suoshu 	 			所属机构
+    work 	 			岗位名称
+    applytime 	 			申请截止时间
+    linkman 	 			岗位联系人
+    Location 	 			位置
+    ApplicationDeadline 		申请截至时间
+    TypeofContract 			包工方式
+    PostLevel 	 			职位级别
+    LanguagesRequired 			语言要求
+    DurationofInitialContract 		初始合同时间
+    ExpectedDurationofAssignment 	预计工作时间
+    AdditionalCategory  		额外的类别
+    Background				背景
+    DutiesandResponsibilities		工作职责
+    Competencies			能力
+    RequiredSkillsandExperience		技能和经历
+
+WHO(世界卫生组织)
+
+    englishname 			组织英文缩写
+    chinesename 			组织中文名称
+    incontinent 			组织所属洲
+    incountry 				组织所在国家
+    type 				组织类别
+    url 				组织主页
+    alljoburl 				组织招聘岗位主页
+    joburl 				该招聘岗位主页
+    work 				岗位名称
+    Location 				位置
+    PostLevel 				职位级别
+    ContractualArrangement 		合同安排
+    ClosingDate 			截止时间
+    Contractduration 			合同期限
+    PrimaryLocation 			主要地点
+    JobPosting 				工作公告
+    Organization 			组织
+    Schedule 				是否全职
+    Education				教育
+    Experience				经历
+    Skills				技能
+    WHOCompetencies			通用能力
+    LanguageSkills			语言
+
+OECD(经济合作与发展组织)
+
+    englishname 			组织英文缩写
+    chinesename 			组织中文名称
+    incontinent 			组织所属洲
+    incountry 				组织所在国家
+    type 				组织类别
+    url 				组织主页
+    alljoburl 				组织招聘岗位主页
+    work 				岗位名称
+    Description				岗位要求
+    MainResponsibilities		主要职责
+    IdealCandidateProfile		理想要求
+    Contract				合同期限
+    offers				待遇
+
+
+IEA(国际能源署)
+
+    englishname 			组织英文缩写
+    chinesename 			组织中文名称
+    incontinent 			组织所属洲
+    incountry 				组织所在国家
+    type 				组织类别
+    url 				组织主页
+    alljoburl 				组织招聘岗位主页
+    work 				岗位名称
+    describe				岗位描述
+    Responsibilities			岗位职责
+    Qualifications			资格
+
+WIPO(世界知识产权组织)
+
+    englishname 			组织英文缩写
+    chinesename 			组织中文名称
+    incontinent 			组织所属洲
+    incountry 				组织所在国家
+    type 				组织类别
+    url 				组织主页
+    alljoburl 				组织招聘岗位主页
+    joburl 				该招聘岗位主页
+    work				岗位
+    sector				部门
+    grade				职级
+    ContractDuration			合同期限
+    DutyStation				工作地点
+    PublicationDate			发起时间
+    ApplicationDeadline			截止时间
+    Organizationalcontext		组织背景
+    Dutiesandresponsibilities		责任与义务
+    Requirements			要求
+    Organizationalcompetencies		组织能力
+    Information				相关信息
+
